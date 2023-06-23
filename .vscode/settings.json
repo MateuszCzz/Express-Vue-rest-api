@@ -1,0 +1,19 @@
+{
+  "files.exclude": {
+    ".vscode": true,
+    "Clientside\\.vscode": true,
+    "Clientside\\node_modules": true,
+    "Clientside\\public": true,
+    "Clientside\\dist": true,
+    "Clientside\\.gitignore": true,
+    "Clientside\\package-lock.json": true,
+    "Clientside\\src\\assets\\logo.svg": true,
+    "Serverside\\node_modules": true,
+    "Serverside\\package-lock.json": true,
+    "Clientside\\index.html": true,
+    "Clientside\\package.json": true,
+    "Clientside\\postcss.config.js": true,
+    "Clientside\\tailwind.config.js": true,
+    "Clientside\\vite.config.js": true
+  }
+}
